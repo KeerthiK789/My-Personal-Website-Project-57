@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    border-style: double;
+    background: linear-gradient(#fff6a8 0%, #ffc500 100%)
+}
+
+img{
+    height: 300px;
+    border-style: inset;
+    border-width: 5px;
+}
+
+h1 {
+    color: firebrick;
+    font-family: 'Sacramento', cursive;
+}
+
+h4 {
+    color: navy;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#line {
+    height: 4px;
+    width: 300px;
+    background-color: black;
+    margin: 10px auto;
+}
+
+#section {
+    padding: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family:cursive;
+}
